@@ -35,7 +35,7 @@ Before running the Maze Solver code, ensure that the following prerequisites are
     
 ```
 
-##Running the Code
+## Running the Code
 
 Follow these steps to run the Maze Solver code:
 
@@ -64,9 +64,11 @@ main2(test_maze, test_mdp)
 
     Visualize the Maze Solver: Once the code is running, a turtle graphics window will display the maze-solving process. Observe the turtle's movement as it solves the maze based on the chosen algorithm.
 
-##Additional Notes
+## Additional Notes
 
     Adjusting the Maze and MDP Data: Customize the maze and MDP data by modifying the variables test_maze and test_mdp within your code.
 
 
 If you have any questions or need assistance, feel free to reach out. Enjoy learning MDP's!
+![image](https://github.com/salmazekri/Maze-Generator-using-MDP/assets/76392907/4efbcc4a-91ad-4835-90d2-633a9277506b)
+![image](https://github.com/salmazekri/Maze-Generator-using-MDP/assets/76392907/ac4225fe-2797-424f-b230-1c9ca581bd22)
